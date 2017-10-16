@@ -1,4 +1,4 @@
-name = raw_input("what is your name?")
+name = raw_input("what is your name?")1
 quest = raw_input(what is your quest?")
 color = raw_input("what is your favorite color?')
 
